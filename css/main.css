@@ -1,0 +1,48 @@
+.nav-link {
+    font-weight: bold;
+}
+
+.hero {
+    background-image: url('../img/Home\ .jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.hero h1{
+    color: rgb(0, 153, 255);
+}
+
+.hero h2{
+    color: yellow;
+}
+
+.about {
+    background-image: url('../img/About\ us\ banner.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.about h1{
+    color: rgb(0, 153, 255);
+    text-align: center;
+}
+
+.about p{
+    color: yellow;
+    text-align: center;
+}
+
+.contact {
+    background-image: url('../img/contact\ banner.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.contact h1{
+    color: rgb(255, 0, 0);
+    text-align: center;
+}
+
