@@ -29,9 +29,14 @@
     text-align: center;
 }
 
-.about p{
+.about h2{
     color: yellow;
     text-align: center;
+}
+
+.card-body{
+    background-color: rgb(216, 214, 214);
+    padding-bottom: 120px;
 }
 
 .contact {
@@ -46,3 +51,6 @@
     text-align: center;
 }
 
+.ride .form-control{
+    background-color: grey;
+}
