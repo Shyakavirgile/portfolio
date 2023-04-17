@@ -11,4 +11,4 @@
 
 ### QUESTION: What have you learned by creating your web portfolio? 
 
-### ANSWERS: I can't say that i did the assignment very well but am better than last week. I have learnt that it is a process of some failings, reviewing and adjusting. It take time to fully have a strong understanding but as long as you are willing to put in the time and focus the results will come. 
+### ANSWERS: I have learnt that it is a process of some failings, reviewing and adjusting. It take time to fully have a strong understanding but as long as you are willing to put in the time and focus the results will come. 
