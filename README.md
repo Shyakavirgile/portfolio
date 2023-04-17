@@ -3,8 +3,6 @@
 
 ## I removed the text font that was in the prototype design because i couldn't find it in google fonts and i realised that the bold text works well font so i decided to use it.
 
-## Some changes happened in the Navbar as on the small screen the navbar toggler icon is located at the right corner of the screen and the text at the left.
-
 ### QUESTION: Tell us about your process, challenges you faced during development and how you overcame those changes.
 
 ### ANSWER: The first challenge i faced was applying code on the wrong class. it took some time to fully have a better understanding and as i was doing the assignment, i was getting a better understanding from mistakes and corrections.
